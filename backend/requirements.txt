@@ -26,3 +26,6 @@ typer>=0.9.0
 bcrypt>=4.0.1
 aiofiles>=23.2.1
 emergentintegrations
+bcrypt>=4.0.1
+aiofiles>=23.2.1
+emergentintegrations
